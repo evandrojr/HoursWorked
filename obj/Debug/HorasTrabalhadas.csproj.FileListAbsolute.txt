@@ -1,0 +1,8 @@
+C:\Dev\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.exe
+C:\Dev\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.pdb
+C:\Dev\HorasTrabalhadas\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.FrmMain.resources
+C:\Dev\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.Properties.Resources.resources
+C:\Dev\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.csproj.GenerateResource.Cache
+C:\Dev\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.exe
+C:\Dev\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.pdb
